@@ -1,0 +1,20 @@
+# src file #
+src/bible/*
+
+src/hwp/*
+
+src/liturg/*
+
+src/song/bok/*.PPT
+src/song/bok/*.ppt
+src/song/bok/*.pptx
+src/song/bok/*.txt
+
+src/song/new/*
+
+# old directory #
+old/*
+
+# Files #
+src.zip
+temp.txt
